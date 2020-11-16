@@ -23,6 +23,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ez](https://www.youtube.com/watch?v=USWfDyJEAzw)
 - [He said I Couldn't Make a Game...](https://www.youtube.com/watch?v=lMZjh4jURnQ)
 <!-- YOUTUBE:END -->
 
