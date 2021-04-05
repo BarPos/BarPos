@@ -23,6 +23,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [On The Way Home](https://www.youtube.com/watch?v=CoV5JUavHvg)
 - [the hypixel skywars experience](https://www.youtube.com/watch?v=nfIxqD35siE)
 - [He said I Couldn't Make a Game...](https://www.youtube.com/watch?v=lMZjh4jURnQ)
 - [fornt0ine](https://www.youtube.com/watch?v=FsNcr4HVeRA)
