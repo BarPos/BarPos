@@ -34,14 +34,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="BarPos' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarPos&count_private=true&show_icons=true" />
