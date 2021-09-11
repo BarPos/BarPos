@@ -1,6 +1,6 @@
 ### Hi there, I'm Barłtmiej - aka [BarPos][website] 👋
 
-[![Website](https://img.shields.io/website?label=www.barpos.net&style=for-the-badge&url=http://www.barpos.net)](http://www.barpos.net)
+[![Website](https://img.shields.io/website?label=www.barpos.net&style=for-the-badge&url=http://www.barpos.net)](https://barpos.dev)
 [![Twitter](https://img.shields.io/twitter/follow/BarPosWasTaken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BarPosWasTaken)
 
 ## I'm a Student & Developer
@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img  align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img  align="left" alt="barpos.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="BarPos | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="@BarPosWasTaken | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
@@ -29,7 +29,7 @@
 - [fornt0ine](https://www.youtube.com/watch?v=FsNcr4HVeRA)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC9_JYG06kewgh5x8qQFntMg)
+➡️ [more videos...][videos]
 
 ---
 
@@ -48,6 +48,7 @@
 
 </details>
 
-[website]: http://www.barpos.net
+[website]: https://barpos.dev
 [twitter]: https://twitter.com/BarPosWasTaken
 [youtube]: https://www.youtube.com/channel/UC9_JYG06kewgh5x8qQFntMg
+[videos]: https://www.youtube.com/channel/UC9_JYG06kewgh5x8qQFntMg/videos
