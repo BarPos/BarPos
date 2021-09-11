@@ -1,6 +1,6 @@
 ### Hi there, I'm Barłtmiej - aka [BarPos][website] 👋
 
-[![Website](https://img.shields.io/website?label=www.barpos.net&style=for-the-badge&url=https://barpos.dev)](https://barpos.dev)
+[![Website](https://img.shields.io/website?label=barpos.dev&style=for-the-badge&url=https://barpos.dev)](https://barpos.dev)
 [![Twitter](https://img.shields.io/twitter/follow/BarPosWasTaken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BarPosWasTaken)
 
 ## I'm a Student & Developer
@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="BarPos' GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BarPos&show_icons=true&hide_border=true" />
+  <img align="left" alt="BarPos' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BarPos&count_private=true&show_icons=true" />
 
 </details>
 
