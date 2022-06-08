@@ -1,7 +1,7 @@
 ### Hi there, I'm Barłtmiej - aka [BarPos][website] 👋
 
 [![Website](https://img.shields.io/website?label=barpos.dev&style=for-the-badge&url=https://barpos.dev)](https://barpos.dev)
-[![Twitter](https://img.shields.io/twitter/follow/BarPosWasTaken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BarPosOof)
+[![Twitter](https://img.shields.io/twitter/follow/BarPosOof?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BarPosOof)
 
 ## I'm a Student & Developer
 
